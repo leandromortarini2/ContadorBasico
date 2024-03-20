@@ -1,0 +1,53 @@
+.contadorContainer {
+  width: 350px;
+  height: 350px;
+  background-color: rgba(90, 196, 129, 0.648);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 20px;
+}
+
+.contadorButton {
+  width: 350px;
+  height: 350px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.contadorView {
+  width: 300px;
+  height: 50px;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.contadorParrafo {
+  color: rgba(11, 88, 100, 0.648);
+  font-size: 25px;
+  font-weight: 700;
+}
+
+.buttonRest {
+  width: 100px;
+  height: 50px;
+  font-weight: 900;
+  font-size: 30px;
+  background-color: brown;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.buttonSum {
+  width: 100px;
+  height: 50px;
+  font-weight: 900;
+  font-size: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(20, 69, 142);
+}
